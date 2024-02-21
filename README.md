@@ -4,3 +4,4 @@
 
 <nav> =  es una etiqueta que se utiliza para definir una sección de navegación en un documento web
 <div class = "footer"> = Sirve para pooner los logos de las Redes sociales en el pie de pagina
+<a href = #> = Sirve para poner el link, el "#" es para que se dirija al comienzo de la pagina, pero ahi se puede poner un link real
